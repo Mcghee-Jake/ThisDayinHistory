@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">This Day in History</string>
+    <string name="refresh">New Fact</string>
+</resources>
